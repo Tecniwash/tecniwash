@@ -1,0 +1,246 @@
+.con {
+  margin-left:auto;
+  margin-right:auto;
+
+  background-image: url("../images/09.jpg");
+  text-align: center;
+  margin-bottom: 2px;
+
+  color: #fff;
+text-shadow:
+-2px -2px 0 #000, 
+1px -2px 0 #000,
+-2px 2px 0 #000,
+2px 2px 0 #000;
+font-family: 'Unna', serif;
+font-size: 3em;
+border-top: inset;
+border-bottom: outset;
+border-color: red;
+
+
+}
+
+
+.container {
+   margin-left:auto;
+  margin-right:auto;
+}
+
+/*-- top-nav --*/
+
+
+.top-nav{
+   
+    float: left;
+}
+.top-nav ul{
+    padding: 0;
+    margin: 0;
+}
+.top-nav ul li{
+    display: inline-block;
+    margin: 0 em;
+    float: left;
+}
+.top-nav ul li:nth-child(6){
+	margin-right:0;
+}
+ul.nav.navbar-nav {
+    float: right;
+}
+.navbar-default{
+    background: none;
+    border: none;
+    margin: 0;
+}
+.navbar {
+    min-height: 0;
+}
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+    background: none !important;
+    box-shadow: 1px 0px 0px 0px rgba(72, 72, 72, 0);
+}
+.top-nav ul li a{
+    color: #000000 !important;
+    font-size: 1.3em;
+    margin: 0;
+    text-decoration: none;
+    padding: 0;
+    font-weight: 600;
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing: 1px;
+}
+.top-nav ul li a:hover{
+    color: #F44336 !important;
+}
+.top-nav ul li a.active{
+    color: #F44336 !important;
+}
+ul.dropdown-menu {
+	background: white;
+   
+    border: none;
+    margin: 0;
+    top: 1em;
+    left: 0;
+    min-width: 90px;
+}
+.dropdown-menu > li > a {
+    display: block;
+    padding: 0px 0px !important;
+    clear: both;
+    margin: 0em 0 !important;
+    font-weight: normal;
+    line-height: 1.42857143;
+    color: #FFF !important;
+    
+}
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    background: none;
+}
+.dropdown-submenu {
+    position: relative;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+		background-color: #2f2f2f;
+		border-color: #2f2f2f;
+	}
+	.header-left {
+		width: 23%;
+	}
+	.header-right {
+		width: 77%;
+	}
+	.w3layouts-banner-slider {
+		margin: 4em 0;
+	}
+	ul.dropdown-menu {
+		text-align: center;
+	}
+	.header-right {
+		margin: 0em 0 0 0;
+	}
+	.top-nav {
+		margin: 0;
+	}
+/*-- header-left --*/
+.header {
+    background: white;
+   
+}
+.header-left{
+	float: left;
+}
+
+.w3layouts-logo  {
+    margin: 0px;
+}
+.w3layouts-logo h1 {
+    margin: 2px;
+}
+
+.w3layouts-logo h1 a {
+    color: #2f2f2f;
+    font-size: 2em;
+    text-decoration: none;
+    font-weight: 600;
+    font-family: 'Raleway', sans-serif;
+}
+.w3layouts-logo h1 a span{
+    font-weight: 300;
+    font-size: .4em;
+    text-transform: uppercase;
+}
+/*-- //header-left --*/
+.header-right{
+	float: right;
+    margin: 0.5em 0 0 0;
+}
+/*-- top-nav --*/
+
+.dropdown-submenu>.dropdown-menu {
+    top: 0;
+    left: 103%;
+    margin-top: -6px;
+    margin-left: -1px;
+    -webkit-border-radius: 0 6px 6px 6px;
+    -moz-border-radius: 0 6px 6px;
+    border-radius: 0 6px 6px 6px;
+}
+body {
+  color:#333333;
+
+}
+.dropdown-submenu:hover>.dropdown-menu {
+    display: block;
+}
+.header-right {
+		width: 78%;
+	}
+	.top-nav ul li {
+		margin: 0 .5em;
+	}
+	.header-left {
+		width: 22%;
+	}
+.about-header {
+  margin:0 0 0px;
+}
+
+.dropdown-submenu>a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-width: 5px 0 5px 5px;
+    margin-top: 5px;
+    margin-right: -10px;
+}
+
+.dropdown-submenu:hover>a:after {
+    border-left-color: #fff;
+}
+
+.dropdown-submenu.pull-left {
+    float: none;
+}
+
+.dropdown-submenu.pull-left>.dropdown-menu {
+    left: -100%;
+    margin-left: 10px;
+    -webkit-border-radius: 6px 0 6px 6px;
+    -moz-border-radius: 6px 0 6px 6px;
+    border-radius: 6px 0 6px 6px;
+}
+
+
+
+
+.dropdown-submenu.pull-left>.dropdown-menu {
+    left: -100%;
+    margin-left: 10px;
+    -webkit-border-radius: 6px 0 6px 6px;
+    -moz-border-radius: 6px 0 6px 6px;
+    border-radius: 6px 0 6px 6px;
+}
+
+
+.dropdown-submenu>a:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+
+    margin-top: 5px;
+    margin-right: -10px;
+}
+
+.dropdown-submenu:hover>.dropdown-menu {
+    display: block;
+}

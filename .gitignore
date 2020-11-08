@@ -1,0 +1,3 @@
+#ignorar la ruta de conexion para que a futuro no detecte cambios en este archivo
+/funcs/conexion.php
+funcs/conexion.php

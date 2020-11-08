@@ -1,0 +1,166 @@
+ Reporte de Atenciones   
+          
+Id	Clave	Nombre 	Diagnostico	Doctor	Fecha atencion
+1	23456	maria elena		maria aguilar	27/08/2018
+2	23456	maria elena		maria aguilar	27/08/2018
+3	56789	don luis		maria aguilar	27/08/2018
+4	78901	MOLLY MONTOYA		maria aguilar	27/08/2018
+5	89012	LOLA DASANI		maria aguilar	27/08/2018
+6	45678	ringo star		maria aguilar	27/08/2018
+7	34567	harry aguilar		maria aguilar	27/08/2018
+8	23456	maria elena		maria aguilar	27/08/2018
+9	12345	maria aguilar		maria aguilar	27/08/2018
+10	45678	ringo star		maria aguilar	28/08/2018
+11	78901	MOLLY MONTOYA		maria aguilar	28/08/2018
+12	89012	LOLA DASANI		maria aguilar	28/08/2018
+13	45678	ringo star		maria aguilar	28/08/2018
+14	34567	harry aguilar		maria aguilar	28/08/2018
+15	56789	don luis		maria aguilar	28/08/2018
+16	78901	MOLLY MONTOYA		maria aguilar	28/08/2018
+17	67890	PACO MONTOYA		maria aguilar	28/08/2018
+18	12345	maria aguilar		maria aguilar	28/08/2018
+19	89012	LOLA DASANI		maria aguilar	28/08/2018
+20	78901	MOLLY MONTOYA		maria aguilar	28/08/2018
+21	89012	LOLA DASANI		maria aguilar	28/08/2018
+22	45678	ringo star		maria aguilar	28/08/2018
+23	45678	ringo star		maria aguilar	28/08/2018
+24	56789	don luis		maria aguilar	28/08/2018
+25	90123	prueba		maria aguilar	28/08/2018
+26	56789	don luis		maria aguilar	28/08/2018
+27	78901	MOLLY MONTOYA		maria aguilar	28/08/2018
+28	90123	prueba		maria aguilar	28/08/2018
+29	89012	LOLA DASANI		maria aguilar	28/08/2018
+30	12345	maria aguilar		maria aguilar	28/08/2018
+31	56789	don luis		maria aguilar	28/08/2018
+32	12345	maria aguilar		maria aguilar	28/08/2018
+33	45678	ringo star		maria aguilar	28/08/2018
+34	89012	LOLA DASANI		maria aguilar	28/08/2018
+35	90123	prueba		maria aguilar	28/08/2018
+36	67890	PACO MONTOYA		maria aguilar	29/08/2018
+37	90123	prueba		maria aguilar	29/08/2018
+38	78901	MOLLY MONTOYA		maria aguilar	29/08/2018
+39	89012	LOLA DASANI		maria aguilar	29/08/2018
+40	45678	ringo star		maria aguilar	29/08/2018
+41	78901	MOLLY MONTOYA		maria aguilar	29/08/2018
+42	45678	ringo star		maria aguilar	29/08/2018
+43	67890	PACO MONTOYA		maria aguilar	29/08/2018
+44	56789	don luis		maria aguilar	29/08/2018
+45	90123	prueba		maria aguilar	29/08/2018
+46	12345	maria aguilar		maria aguilar	29/08/2018
+47	23456	maria elena		maria aguilar	29/08/2018
+48	45678	ringo star		maria aguilar	29/08/2018
+49	90123	prueba		maria aguilar	29/08/2018
+50	78901	MOLLY MONTOYA		maria aguilar	29/08/2018
+51	56789	don luis		maria aguilar	29/08/2018
+52	89012	LOLA DASANI		maria aguilar	29/08/2018
+53	90123	prueba		maria aguilar	29/08/2018
+54	67890	PACO MONTOYA		maria aguilar	29/08/2018
+55	89012	LOLA DASANI		maria aguilar	29/08/2018
+56	90123	prueba		maria aguilar	29/08/2018
+57	78901	MOLLY MONTOYA		maria aguilar	29/08/2018
+58	34567	harry aguilar		maria aguilar	29/08/2018
+59	23456	maria elena		maria aguilar	29/08/2018
+60	89012	LOLA DASANI		maria aguilar	30/08/2018
+61	67890	PACO MONTOYA		maria aguilar	30/08/2018
+62	56789	don luis		maria aguilar	30/08/2018
+63	23456	maria elena		maria aguilar	30/08/2018
+64	34567	harry aguilar		maria aguilar	30/08/2018
+65	90123	prueba		maria aguilar	30/08/2018
+66	90123	prueba		maria aguilar	30/08/2018
+67	12345	maria aguilar		maria aguilar	30/08/2018
+68	45678	ringo star		maria aguilar	30/08/2018
+69	34567	harry aguilar		maria aguilar	30/08/2018
+70	32109	THOR MARTINEZ		maria aguilar	03/09/2018
+71	21098	RODOLFO PASTOR		maria aguilar	03/09/2018
+72	43210	charlotte mejia		maria aguilar	03/09/2018
+73	54321	elote mejia		maria aguilar	03/09/2018
+74	54321	elote mejia		maria aguilar	04/09/2018
+75	32109	THOR MARTINEZ		maria aguilar	04/09/2018
+76	45678	ringo star		maria aguilar	04/09/2018
+77	56789	don luis		maria aguilar	04/09/2018
+78	34567	harry aguilar		maria aguilar	04/09/2018
+79	12345	maria aguilar		maria aguilar	04/09/2018
+80	23456	maria elena		maria aguilar	04/09/2018
+81	43210	charlotte mejia		maria aguilar	04/09/2018
+82	21098	RODOLFO PASTOR		maria aguilar	05/09/2018
+83	34567	harry aguilar		maria aguilar	05/09/2018
+84	23456	maria elena		maria aguilar	05/09/2018
+85	32109	THOR MARTINEZ		maria aguilar	05/09/2018
+86	43210	charlotte mejia		maria aguilar	05/09/2018
+87	56789	don luis		maria aguilar	05/09/2018
+88	56789	don luis		maria aguilar	05/09/2018
+89	56789	don luis		maria aguilar	05/09/2018
+90	12345	maria aguilar		maria aguilar	06/09/2018
+91	45678	ringo star		maria aguilar	06/09/2018
+92	90123	prueba		maria aguilar	06/09/2018
+93	21098	RODOLFO PASTOR		maria aguilar	06/09/2018
+94	78901	MOLLY MONTOYA		maria aguilar	06/09/2018
+95	54321	elote mejia		maria aguilar	06/09/2018
+96	45678	ringo star		maria aguilar	10/09/2018
+97	54321	elote mejia		maria aguilar	10/09/2018
+98	43210	charlotte mejia		maria aguilar	10/09/2018
+99	34567	harry aguilar		maria aguilar	10/09/2018
+100	96548	teresa chacon		maria aguilar	13/09/2018
+101	12345	maria aguilar		maria aguilar	14/09/2018
+102	23456	maria elena		maria aguilar	14/09/2018
+103	6543768	pablito perdomo		maria aguilar	14/09/2018
+104	56789	don luis		maria aguilar	14/09/2018
+105	67890	PACO MONTOYA		maria aguilar	14/09/2018
+106	21098	RODOLFO PASTOR		maria aguilar	14/09/2018
+107	32109	THOR MARTINEZ		maria aguilar	14/09/2018
+108	45678	ringo star		maria aguilar	14/09/2018
+109	23456	maria elena		maria aguilar	14/09/2018
+110	698745	pablito montoya		maria aguilar	14/09/2018
+111	78945	miguel aguilar		maria aguilar	14/09/2018
+112	78945	miguel aguilar		maria aguilar	14/09/2018
+113	78945	miguel aguilar		maria aguilar	14/09/2018
+114	45678	ringo star		maria aguilar	14/09/2018
+115	78945	miguel aguilar		maria aguilar	14/09/2018
+116	78945	miguel aguilar		maria aguilar	14/09/2018
+117	78945	miguel aguilar		maria aguilar	14/09/2018
+118	78945	miguel aguilar		maria aguilar	14/09/2018
+119	12345	maria aguilar		maria aguilar	14/09/2018
+120	78945	miguel aguilar		maria aguilar	14/09/2018
+121	698745	pablito montoya		maria aguilar	14/09/2018
+122	54789	rosa salsoa		maria aguilar	14/09/2018
+123	34567	harry aguilar		maria aguilar	18/09/2018
+124	54321	yalesy ortiz		maria aguilar	18/09/2018
+125	67890	PACO MONTOYA		maria aguilar	18/09/2018
+126	56789	don luis		maria aguilar	18/09/2018
+127	56789	don luis		maria aguilar	18/09/2018
+128	54789	rosa salsoa		maria aguilar	18/09/2018
+129	21098	RODOLFO PASTOR		maria aguilar	18/09/2018
+130	34567	harry aguilar		maria aguilar	18/09/2018
+131	23456	maria elena		maria aguilar	19/09/2018
+132	34567	harry aguilar		maria aguilar	19/09/2018
+133	23456	maria elena		maria aguilar	19/09/2018
+134	56789	don luis		maria aguilar	19/09/2018
+135	56789	don luis		maria aguilar	19/09/2018
+136	67890	PACO MONTOYA		maria aguilar	19/09/2018
+137	34567	harry aguilar		maria aguilar	19/09/2018
+138	54789	rosa salsoa		maria aguilar	19/09/2018
+139	34567	harry aguilar		maria aguilar	19/09/2018
+140	45678	ringo star		maria aguilar	19/09/2018
+141	54321	yalesy ortiz		maria aguilar	19/09/2018
+142	54789	rosa salsoa		maria aguilar	20/09/2018
+143	34567	harry aguilar		maria aguilar	20/09/2018
+144	34567	harry aguilar		maria aguilar	20/09/2018
+145	654321	marilyn perdomo		maria aguilar	20/09/2018
+146	34567	harry aguilar		maria aguilar	25/09/2018
+147	54789	rosa salsoa		maria aguilar	25/09/2018
+148	56789	don luis		maria aguilar	26/09/2018
+149	54321	yalesy ortiz		maria aguilar	23/10/2018
+150	56789	don luis		maria aguilar	23/10/2018
+151	45678	ringo star		maria aguilar	23/10/2018
+152	78953	mercedes gabriela		maria aguilar	23/10/2018
+153	45689	miay aguuirq		maria aguilar	23/10/2018
+154	54321	yalesy ortiz		maria aguilar	24/10/2018
+155	654321	marilyn perdomo		maria aguilar	24/10/2018
+156	89012	LOLA DASANI		maria aguilar	25/10/2018
+157	698745	pablito montoya		maria aguilar	25/10/2018
+158	45689	miay aguuirq		maria aguilar	25/10/2018
+159	54789	rosa salsoa		maria aguilar	25/10/2018
+160	56789	don luis		maria aguilar	25/10/2018
+161	67890	PACO MONTOYA	cansancio	maria aguilar	25/10/2018
+162	78945	miguel aguilar		harry aguilar	25/10/2018
+163	90123	prueba		maria aguilar	23/11/2018
